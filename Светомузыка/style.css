@@ -1,0 +1,75 @@
+.logo{
+	margin: 0;
+	padding: 0;
+	width: 130px;
+	height: 130px;
+}
+
+.menu{
+	margin-top:-140px;
+	word-spacing: 60px;
+	text-align: center;
+}
+
+.menu a{
+	word-spacing: 1px;
+	font-size: 40px;
+	font-style:italic;
+	color: white;
+	text-decoration: none;
+}
+
+p{
+	width: 900px;
+	position: relative;
+	top: 180px;
+	left: 80px;
+	color: white;
+	font-size: 90px;
+}
+.title{
+	width: 900px;
+	font-size: 50px;
+	font-style:italic;	
+	top: 100px
+}
+.cwd{
+	position: relative;
+	top: 180px;
+	top: 200px;
+	text-decoration: none;
+	border-collapse:collapse;
+	width:100%;
+	text-align:center;
+}
+.cwd th{
+	font-weight:normal;
+	font-size:19px; 
+	color:#ffffff;
+	background-color:#2a3354;
+}
+.cwd td{
+	font-size:17px;
+	color:#ffffff;
+}
+.cwd td,th{
+	white-space:pre-wrap;
+	padding:11px 0px;
+	line-height:17px;
+	vertical-align: middle;
+	border: 1px solid #2a3354;
+	}	
+
+.cwd tr:hover td{
+	color:#ff0000;
+	cursor:default;
+}
+
+
+.set p{
+
+	left: 25%;
+	text-align: center;
+	font-size: 40px;
+	font-style: italic;
+}
